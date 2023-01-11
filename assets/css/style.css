@@ -67,7 +67,9 @@ h2,label{
 }
 @media screen and (max-width:414px){
     body{
-        background-image: none;
+        background-image: url(../img/jeux.jpg);
+        background-repeat:repeat;
+        backbround-size:contain;
     }
     .container{
         font-size: normal;
