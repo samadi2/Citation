@@ -104,4 +104,3 @@ document.getElementById('citation1').style.background="linear-gradient(#FFFF00,#
 document.getElementById('citation2').style.border="solid 1rem #f1c232";
 document.getElementById('citation2').style.borderRadius="8px";
 document.getElementById('citation2').style.background="linear-gradient(#FFA500,green)";
-
