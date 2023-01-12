@@ -71,12 +71,9 @@ h2,label{
         background-repeat: repeat;
         background-size: contain;
     }
-    .container{
-        font-size: normal;
-    }
     p{
         font-family: 'Winter Coffee', serif;
-        font-size: 24px;
+        font-size: 18px;
     }
     p:hover{
         text-shadow: #0da2ff;
